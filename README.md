@@ -1,5 +1,5 @@
 # Stewart-Platform
-Plan B scripts -- open-loop actuator speed tracking
+For plan B open-loop actuator speed tracking (might need an IMU)
 Change parameters in StewartPlatform.ino to see different performances.
 
 One set of parameter that Prof was satisfied with is:
